@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis AI",
+  "description": "Voice-enabled Jarvis AI assistant with an interactive arc reactor interface, speech recognition, and smart vocal responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
